@@ -1,3 +1,5 @@
+Hi There 👋
+
 Working on real-world projects to improve development skills.
 
 Learning modern technologies and best coding practices.
